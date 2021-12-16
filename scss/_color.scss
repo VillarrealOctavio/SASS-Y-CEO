@@ -1,0 +1,22 @@
+/* INCLUYO MAP-GET*/
+
+
+$colores: (
+  clr-cabeza: #BEE3DB,
+  clr-nav: white,
+  clr-cuerpo: #FFF,
+  clr-pie:#BEE3DB,
+);
+
+.encabezado {
+  background-color: map-get($colores, clr-cabeza);
+}
+.nav {
+  background-color: map-get($colores, clr-nav);
+}
+.cuerpo {
+  background-color: map-get($colores, clr-cuerpo);
+}
+.pie {
+  background-color: map-get($colores, clr-pie);
+}

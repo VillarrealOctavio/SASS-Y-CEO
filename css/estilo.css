@@ -1,0 +1,36 @@
+/* INCLUYO MAP-GET*/
+.encabezado {
+  background-color: #BEE3DB; }
+
+.nav {
+  background-color: white; }
+
+.cuerpo {
+  background-color: #FFF; }
+
+.pie {
+  background-color: #BEE3DB; }
+
+.ig, .fc, .wa, .tw, .lkd {
+  background-color: purple;
+  color: white;
+  font-size: 20px;
+  font-family: sant-serif !important;
+  margin: 10px; }
+
+.fc {
+  color: black;
+  background-color: #BEE3DB; }
+
+.wa {
+  background-color: lightgreen; }
+
+.tw {
+  background-color: lightblue; }
+
+.lkd {
+  background-color: blue; }
+
+.ig, .fc, .wa, .tw, .lkd, .fc, .wa, .tw, .lkd {
+  width: 50px;
+  height: 50px; }
